@@ -230,4 +230,4 @@ Shooshtari, et al. Integrative genetic and epigenetic analysis uncovers regulato
 
 <a name="contact"></a>
 ## Contact
-Please address comments and questions to Parisa Shooshtari (pshoosh@broadinstitute.org) or Chris Cotsapas (cotsapas@broadinstitute.org)
+Please address comments and questions to Parisa Shooshtari (parisa.shooshtari@SickKids.ca) or Chris Cotsapas (cotsapas@broadinstitute.org)
